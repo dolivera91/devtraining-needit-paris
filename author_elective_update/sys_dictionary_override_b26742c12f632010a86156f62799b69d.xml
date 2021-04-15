@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes>requested=-13,awaiting_approval=14,approved=15, awaiting_feedback=16, withdrawn=8</attributes>
+        <attributes_override>true</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>13</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>true</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_58872_needit_needit</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-14 15:28:30</sys_created_on>
+        <sys_id>b26742c12f632010a86156f62799b69d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_dictionary_override_b26742c12f632010a86156f62799b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-14 15:32:20</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0d51f004db5884d491232f17d49619ea</instance_id>
+        <instance_name>dev94095</instance_name>
+        <name>sys_dictionary_override_b26742c12f632010a86156f62799b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes>requested=-13,awaiting_approval=14,approved=15, awaiting_feedback=16, withdrawn=8</attributes><attributes_override>true</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value>13</default_value><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>true</display_override><element>state</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_58872_needit_needit</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-14 15:28:30</sys_created_on><sys_id>b26742c12f632010a86156f62799b69d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>state</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_dictionary_override_b26742c12f632010a86156f62799b69d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-14 15:32:20</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>61692136</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>24e9467c2f272010a86156f62799b60f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-14 15:32:20</sys_created_on>
+        <sys_id>1ed882052f632010a86156f62799b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178d10309e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-14 15:32:20</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>56d88205b36320109c5693194ec1a844</update_guid>
+        <update_guid_history>56d88205b36320109c5693194ec1a844:61692136,82f702c12963201054e44f7107d609f6:1959381520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-14 15:34:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>239a17d3a27d46bb8b18f2b6826480a9</sys_id>
+        <sys_metadata>b26742c12f632010a86156f62799b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="x_58872_needit_needit">a204f5052f232010a86156f62799b65b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_b26742c12f632010a86156f62799b69d</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_b26742c12f632010a86156f62799b69d">1ed882052f632010a86156f62799b644</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-14 15:34:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
